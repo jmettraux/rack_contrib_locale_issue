@@ -4,9 +4,11 @@
 A project to expose an issue with rack-contrib/locale and Safari.
 
 * Ruby: `ruby 2.3.4p301 (2017-03-30 revision 58214) [x86_64-darwin14]`
-* Safari: `Version 10.1.2 (10603.3.8)`
 * OS X: `Yosemite 10.10.5 (14F2511)`
 * Gems: as per [Gemfile.lock](Gemfile.lock).
+
+* Safari: `Version 10.1.2 (10603.3.8)`
+* HTTP_ACCEPT_LANGUAGE (from Safari to app): `"en-us"`
 
 ## usage
 

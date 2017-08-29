@@ -13,6 +13,7 @@ A project to expose an issue with rack-contrib/locale and Safari.
 ```
 $ git clone https://github.com/jmettraux/rack_contrib_locale_issue`
 $ cd rack_contrib_locale_issue/
+$ bundle install
 $ make s
 ```
 

@@ -1,7 +1,7 @@
 
 # rack_contrib_locale_issue
 
-A project to expose an issue with rack-contrib/locale and Safari.
+A project to expose an [issue](https://github.com/rack/rack-contrib/issues/135) with rack-contrib/locale and Safari.
 
 * Ruby: `ruby 2.3.4p301 (2017-03-30 revision 58214) [x86_64-darwin14]`
 * OS X: `Yosemite 10.10.5 (14F2511)`
